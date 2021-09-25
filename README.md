@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
-I'm Guilherme Bail (a.k.a @wbail), Backend developer working for the [StoneCo Payments](https://www.stone.com.br/).
+I'm Guilherme Bail (a.k.a @wbail), Backend Developer.
 
 - :office: I’m currently working building API's.
 - 📫 How to reach me: 
