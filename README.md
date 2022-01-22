@@ -10,4 +10,5 @@ I'm Guilherme Bail (a.k.a @wbail), Backend Developer.
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-wbail-orange)](https://stackoverflow.com/users/1420841/wbail)
 
 - :hash: 
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wbail.wbail)
